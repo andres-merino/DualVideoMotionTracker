@@ -14,12 +14,14 @@
     Proyecto en Python para rastrear puntos en dos videos sincronizados, con selección interactiva de frames y marcado de puntos. Python project to track points in two synchronized videos, with interactive frame selection and point marking features.
     <br />
     <a href="https://github.com/andres-merino/DualVideoMotionTracker/issues">Reportar un Problema</a>
+    ·
+    <a href="https://github.com/andres-merino/DualVideoMotionTracker/issues">Solicitar cambio</a>
     <br />
     <br />
-    Explora el Proyecto 
+    Abrir en (próximamente) 
     <br />
     <a href="https://github.com/andres-merino/DualVideoMotionTracker">
-    <img src="https://img.shields.io/badge/Repositorio-GitHub-blue?style=for-the-badge" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" alt="Overleaf Badge">
     </a>
   </p>
 </div>
